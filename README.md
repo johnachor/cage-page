@@ -6,6 +6,6 @@ Will likely break some styling on images that do not have explicitly set sizing.
 
 ## How to use
 
-Clone the repo to a local folder and open `chrome://extensions` in your browser.  Make sure 'Developer mode' is activated, and click 'Load unpacked.'  Navigate to the folder where you cloned the repo and select it.  The extension should show up in the list and place an icon in the address bar.
+Clone or download the repo to a local folder and open `chrome://extensions` in your browser.  Make sure 'Developer mode' is activated, and click 'Load unpacked.'  Navigate to the folder where you placed the files and select it.  The extension should show up in the list and place an icon in the address bar.
 
 Click the icon on any page to Cage-ify the current tab.
