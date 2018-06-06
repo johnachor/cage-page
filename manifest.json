@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "CagePage",
+  "description": "Replaces every image on the current page with Nicolas Cage.",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "cage.png",
+    "default_title": "Cage This Page"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab"],
+  "web_accessible_resources": ["cage.png"]
+}
